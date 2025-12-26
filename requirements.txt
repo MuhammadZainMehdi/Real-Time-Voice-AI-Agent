@@ -1,0 +1,6 @@
+openai-whisper
+sounddevice
+numpy
+groq
+elevenlabs
+torch
