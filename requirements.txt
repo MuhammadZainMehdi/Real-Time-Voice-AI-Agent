@@ -4,4 +4,4 @@ numpy
 groq
 elevenlabs
 torch
-PortAudio
+pyaudio
